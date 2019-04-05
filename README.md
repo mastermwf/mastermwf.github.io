@@ -3,7 +3,7 @@ This website is to test code and display my copyrighted images.
 
 The code my be used freely under the GPL2 license.
 
-The images are my intellectual property and protected under copyright.
+The images are my intellectual property and are protected by copyright.
 
 Any use of images displayed, downloaded, copied or reproduced require licensing.
 
